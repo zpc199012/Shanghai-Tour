@@ -1,0 +1,19 @@
+<style>
+
+p {
+    background-color: gray;
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+}
+
+h1 {
+    color: red;
+    margin-left: 20px;
+}
+
+body {
+    background-color: white;
+}
+
+</style>
