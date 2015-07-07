@@ -1,38 +1,19 @@
 <style>
-body {
-    background-color: red;
+
+p {
+    background-color: gray;
+    color: blue;
+    text-align: center;
+    font-weight: bold;
 }
 
 h1 {
     color: red;
     margin-left: 20px;
 }
-<!--
-header {
-    background-color:black;
-    color:white;
-    text-align:center;
-    padding:5px;	 
+
+body {
+    background-color: white;
 }
-nav {
-    line-height:30px;
-    background-color:#eeeeee;
-    height:300px;
-    width:100px;
-    float:left;
-    padding:5px;	      
-}
-section {
-    width:350px;
-    float:left;
-    padding:10px;	 	 
-}
-footer {
-    background-color:black;
-    color:white;
-    clear:both;
-    text-align:center;
-    padding:5px;	 	 
-}
--->
+
 </style>
